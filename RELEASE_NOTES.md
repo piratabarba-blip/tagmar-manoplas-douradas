@@ -1,4 +1,4 @@
-Primeira versão do conjunto Tagmar — Manoplas Douradas.
+Versão 1.0.1: corrige a primeira instalação, que podia parar antes de cadastrar os esquemas ao tentar ler um valor ainda inexistente no Registro. Instalação real verificada: dois esquemas com 17 arquivos presentes em cada um.
 
 - 17 funções de cursor e uma mão aberta opcional, nos tamanhos 48px e 64px.
 - Manoplas com brilho e balanço suave, mantendo o ponto do clique fixo.

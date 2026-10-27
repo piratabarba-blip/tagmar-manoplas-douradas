@@ -23,13 +23,15 @@ foreach ($size in @(48,64)) {
     }
 }
 $registryPath = 'HKCU:\Control Panel\Cursors\Schemes'
-New-Item -Path $registryPath -Force | Out-Null
+if (-not (Test-Path -LiteralPath $registryPath)) {
+    New-Item -Path $registryPath -Force | Out-Null
+}
 $backupPath = Join-Path $destination 'esquemas-anteriores.json'
 if (-not (Test-Path -LiteralPath $backupPath)) {
     $backup = @{}
     foreach ($size in @(48,64)) {
         $name = "Tagmar - Manoplas Douradas ($($size)px)"
-        $value = Get-ItemPropertyValue -LiteralPath $registryPath -Name $name -ErrorAction SilentlyContinue
+        $value = (Get-Item -LiteralPath $registryPath).GetValue($name, $null)
         $backup[$name] = $value
     }
     $backup | ConvertTo-Json | Set-Content -LiteralPath $backupPath -Encoding UTF8

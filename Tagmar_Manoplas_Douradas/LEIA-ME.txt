@@ -1,0 +1,45 @@
+TAGMAR - MANOPLAS DOURADAS
+
+COMO INSTALAR
+1. Extraia TODO o ZIP para uma pasta.
+2. Abra Instalar.cmd com dois cliques. Nao precisa executar como administrador.
+3. Na janela do mouse, aba Ponteiros, escolha:
+   Tagmar - Manoplas Douradas (48px) ou
+   Tagmar - Manoplas Douradas (64px).
+4. Clique em Aplicar. Comece com 48px; 64px oferece uma opcao maior.
+
+O instalador copia os cursores para uma pasta permanente dentro de
+%LOCALAPPDATA%\Tagmar\Cursores\ManoplasDouradas-v1
+e cadastra os dois esquemas somente para sua conta.
+Ele nao aplica o esquema automaticamente nem modifica os esquemas do Windows.
+A pasta extraida pode ser removida depois da instalacao. A pasta permanente
+deve continuar no lugar enquanto os cursores estiverem em uso.
+
+ANIMACOES
+- Normal, ajuda, links, localizacao e pessoa: brilho e balanco discreto da
+  imagem da mao, com o ponto do clique fixo na ponta do indicador.
+- Simbolo da mao: pulso suave de luz na regiao do emblema.
+- Ocupado: ampulheta girando 180 graus com pausas, centro fixo.
+- Trabalhando: mao com ampulheta, brilho e balanco leve.
+- Mão aberta: arquivo animado extra; nao possui uma funcao global propria
+  na lista padrao de ponteiros do Windows.
+- Texto, precisao, pena, proibido e setas: estaticos para maior precisao.
+- Pena: girada 180 graus; clique na ponta de escrita, no alto a esquerda.
+
+As animacoes repetem um ciclo de 4 segundos, independentemente do movimento
+do mouse. Nao ha programa de monitoramento rodando em segundo plano.
+O movimento das maos e um balanco da imagem, nao articulacao individual
+dos dedos. A areia da ampulheta e a da imagem original, sem simulacao fisica.
+
+PARA VOLTAR
+Win+R > main.cpl > Ponteiros > selecione seu esquema anterior > Aplicar.
+Programas e jogos que desenham seus proprios cursores podem ignorar o esquema.
+
+CONTEUDO
+17 funcoes completas por tamanho, mais mao aberta opcional.
+manifest.json: arquivos, tamanhos e coordenadas dos pontos de clique.
+Visao_geral.png: todos os desenhos.
+Previa_animada.gif: demonstracao ampliada de normal, ocupado, links e pena.
+
+Verificacao: todos os 36 arquivos foram carregados pela API de cursores
+do Windows e tiveram seus pontos de clique conferidos.

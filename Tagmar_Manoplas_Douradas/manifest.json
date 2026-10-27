@@ -1,0 +1,362 @@
+[
+  {
+    "size": 48,
+    "role": "Arrow",
+    "file": "48px/Normal.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Help",
+    "file": "48px/Ajuda.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "AppStarting",
+    "file": "48px/Trabalhando.ani",
+    "hotspot": [
+      6,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Wait",
+    "file": "48px/Ocupado.ani",
+    "hotspot": [
+      24,
+      23
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Crosshair",
+    "file": "48px/Precisao.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "IBeam",
+    "file": "48px/Texto.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "NWPen",
+    "file": "48px/Escrita.cur",
+    "hotspot": [
+      4,
+      3
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "No",
+    "file": "48px/Indisponivel.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "SizeNS",
+    "file": "48px/Vertical.cur",
+    "hotspot": [
+      23,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "SizeWE",
+    "file": "48px/Horizontal.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "SizeNWSE",
+    "file": "48px/Diagonal_1.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "SizeNESW",
+    "file": "48px/Diagonal_2.cur",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "SizeAll",
+    "file": "48px/Mover.cur",
+    "hotspot": [
+      24,
+      25
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "UpArrow",
+    "file": "48px/Alternativa.cur",
+    "hotspot": [
+      24,
+      3
+    ],
+    "frames": 1
+  },
+  {
+    "size": 48,
+    "role": "Hand",
+    "file": "48px/Links.ani",
+    "hotspot": [
+      21,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Pin",
+    "file": "48px/Localizacao.ani",
+    "hotspot": [
+      18,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Person",
+    "file": "48px/Pessoa.ani",
+    "hotspot": [
+      17,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 48,
+    "role": "Extra",
+    "file": "48px/Mao_aberta.ani",
+    "hotspot": [
+      24,
+      24
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Arrow",
+    "file": "64px/Normal.ani",
+    "hotspot": [
+      7,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Help",
+    "file": "64px/Ajuda.ani",
+    "hotspot": [
+      8,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "AppStarting",
+    "file": "64px/Trabalhando.ani",
+    "hotspot": [
+      7,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Wait",
+    "file": "64px/Ocupado.ani",
+    "hotspot": [
+      32,
+      32
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Crosshair",
+    "file": "64px/Precisao.cur",
+    "hotspot": [
+      32,
+      33
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "IBeam",
+    "file": "64px/Texto.cur",
+    "hotspot": [
+      31,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "NWPen",
+    "file": "64px/Escrita.cur",
+    "hotspot": [
+      4,
+      3
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "No",
+    "file": "64px/Indisponivel.cur",
+    "hotspot": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "SizeNS",
+    "file": "64px/Vertical.cur",
+    "hotspot": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "SizeWE",
+    "file": "64px/Horizontal.cur",
+    "hotspot": [
+      32,
+      31
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "SizeNWSE",
+    "file": "64px/Diagonal_1.cur",
+    "hotspot": [
+      32,
+      32
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "SizeNESW",
+    "file": "64px/Diagonal_2.cur",
+    "hotspot": [
+      32,
+      31
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "SizeAll",
+    "file": "64px/Mover.cur",
+    "hotspot": [
+      32,
+      33
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "UpArrow",
+    "file": "64px/Alternativa.cur",
+    "hotspot": [
+      32,
+      3
+    ],
+    "frames": 1
+  },
+  {
+    "size": 64,
+    "role": "Hand",
+    "file": "64px/Links.ani",
+    "hotspot": [
+      27,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Pin",
+    "file": "64px/Localizacao.ani",
+    "hotspot": [
+      24,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Person",
+    "file": "64px/Pessoa.ani",
+    "hotspot": [
+      22,
+      3
+    ],
+    "frames": 48
+  },
+  {
+    "size": 64,
+    "role": "Extra",
+    "file": "64px/Mao_aberta.ani",
+    "hotspot": [
+      32,
+      32
+    ],
+    "frames": 48
+  }
+]
